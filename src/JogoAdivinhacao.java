@@ -47,4 +47,8 @@ public class JogoAdivinhacao {
         }
     }
 
+    public int getTentativas() {
+        return tentativas;
+    }
 }
+
